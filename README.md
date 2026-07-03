@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats-Dark]([https://github-readme-stats.vercel.app](https://github-stats-extended.vercel.app)/api?username=pfyao1101&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pfyao1101&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=pfyao1101&show_icons=true&include_all_commits=true&theme=algolia)
 
 <!--
 **pfyao1101/pfyao1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
